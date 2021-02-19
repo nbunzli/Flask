@@ -1,4 +1,4 @@
-Flask app deployed in a docker container.
+Flask app deployed in a docker container. The app doesn't really do much in this project - there is a test endpoint and an endpoint which can add two numbers. The motivation was to try to "dockerize" a flask app, which it turns out is really easy. This repo can serve as a template/starting point for a docker flask app.
 
 Use the following commands to build and run the docker image.
 ```
